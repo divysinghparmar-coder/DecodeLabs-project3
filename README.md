@@ -1,2 +1,1 @@
-# DecodeLabs-project3
-Project 3
+DECODELABS project 3 
